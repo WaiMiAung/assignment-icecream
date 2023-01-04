@@ -1,0 +1,149 @@
+@media (max-width:767px){
+    
+    .about-para1{
+        font-size: larger;
+    }
+    
+    .about-heading{
+        font-size: 2rem;
+    }
+
+    .resp-aboutpara{
+        margin-bottom: 30px;
+    }
+
+    .about-row{
+        text-align: center;
+    }
+
+    .services-heading{
+        font-size: 2rem;
+    }
+
+    .services-icecream{
+        padding-top: 5px;
+        font-weight: 700;
+        position: relative;
+    }
+    
+    .services-icecream::after{
+        content: "";
+        position: absolute;
+        top: 25px;
+        border-width: 0.1mm;
+        width: 60%;
+        border-style: dotted;
+        border-color: rgb(151, 149, 149);
+        
+    }
+
+    .prices-bg{
+        height: 1700px;
+    }
+
+    .birthday-card{
+        margin-bottom: 50px;
+    }
+
+    .flavors-heading{
+        font-size: 2rem;
+    }
+
+    .flavors-img{
+        width: 150px;
+        height: 150px;
+    }
+
+    .profile-bg{
+        height: 1500px;
+    }
+
+    .touch-contact{
+        justify-content: center;
+        
+    }
+
+    .mainfooter{
+        height: 500px;
+    }
+
+    .footer-heading1{
+        text-align: center;
+    } 
+    
+    .footer-para1{
+        text-align: center;
+        margin-bottom: 30px;
+    } 
+    
+    .footer-heading2{
+        text-align: center;
+    } 
+    
+    .footer-para2{
+        text-align: center;
+    }
+    
+
+}
+
+@media (max-width:656px){
+    .aboutimg1{
+        width: 500px;
+        height: 500px;
+        
+    }
+
+}
+
+@media (max-width:546px){
+    .aboutimg1{
+        width: 450px;
+        height: 450px;
+        
+    }
+}
+
+@media (max-width:497px){
+    .aboutimg1{
+        width: 400px;
+        height: 400px;
+        
+    }
+
+    .profile-bg{
+        height: 1600px;
+    }
+}
+
+@media (max-width:436px){
+    .aboutimg1{
+        width: 350px;
+        height: 350px;
+        
+    }
+
+    .profile-bg{
+        height: 1700px;
+    }
+}
+
+@media (max-width:386px){
+    .aboutimg1{
+        width: 350px;
+        height: 350px;
+        
+    }
+
+    .profile-bg{
+        height: 1700px;
+    }
+}
+
+@media (max-width:386px){
+    .aboutimg1{
+        width: 350px;
+        height: 350px;
+        
+    }
+}
